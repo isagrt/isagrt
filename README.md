@@ -1,4 +1,4 @@
-# Olá 👋 me chamo Isadora Goedert
+# Olá 👋 Me chamo Isadora Goedert
 
 <p align="center">
 design ✷ tecnologia ✷ usuário
@@ -31,4 +31,4 @@ Sou estudante de Design Gráfico na Univille, direcionando minha trajetória par
 
 ## ✦ Contato
 
-📧 isadoragoedert05@email.com
+📧 isadoragoedert05@gmail.com
