@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá 👋 me chamo Isadora Goedert
 
-<!--
-**isagrt/isagrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✦ Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de Design Gráfico na Univille, direcionando minha trajetória para UX/UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou construindo meu caminho unindo:
+
+<p align="center">
+<strong>design</strong> ✷ <strong>tecnologia</strong> ✷ <strong>usuário</strong>
+</p>
+
+---
+
+## ✦ Explorando
+
+<p>
+
+🎨 Interfaces intuitivas  
+🧠 Experiência do usuário  
+📐 Prototipação e fluxos  
+💻 Fundamentos de front-end  
+
+</p>
+
+---
+
+## ✦ Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="42"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="42"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python" height="42"/>
+  <img src="https://skillicons.dev/icons?i=java" height="42"/>
+</p>
+
+---
+
+## ✦ Contato
+
+<p>
+📧 isadoragoedert05@email.com  
+</p>
