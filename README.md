@@ -1,29 +1,23 @@
 # Olá 👋 me chamo Isadora Goedert
 
-## ✦ Sobre mim
-
-Sou estudante de Design Gráfico na Univille, direcionando minha trajetória para UX/UI.
-
-Estou construindo meu caminho unindo:
-
 <p align="center">
 <strong>design</strong> ✷ <strong>tecnologia</strong> ✷ <strong>usuário</strong>
 </p>
 
----
+## ✦ Sobre mim
+<p>
+Sou estudante de Design Gráfico na Univille, direcionando minha trajetória para UX/UI.
+</p>
 
 ## ✦ Explorando
 
 <p>
-
 🎨 Interfaces intuitivas  
 🧠 Experiência do usuário  
 📐 Prototipação e fluxos  
 💻 Fundamentos de front-end  
-
 </p>
 
----
 
 ## ✦ Ferramentas
 
@@ -35,7 +29,6 @@ Estou construindo meu caminho unindo:
   <img src="https://skillicons.dev/icons?i=java" height="42"/>
 </p>
 
----
 
 ## ✦ Contato
 
